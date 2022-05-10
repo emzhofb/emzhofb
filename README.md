@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ikhda Muhammad Wildani</h1>
-<h3 align="center">Software Engineer from Indonesia, strong at Backend Side use NodeJS and Golang. I was working on some projects use various technologies such as ReactJS with JavaScript, Angular 8 with TypeScript, PHP Yii2, MongoDB and SQL.</h3>
+<h3 align="center">Software Engineer from Indonesia</h3>
+<h6 align="center">Focusing on Backend Side use NodeJS and Golang. I was working on some projects use various technologies such as ExpressJS, ReactJS with JavaScript, Angular 8 with TypeScript, PHP Yii2, MongoDB and SQL.</h6>
 
 - 🌱 I’m currently learning **Computer Science at Binus University Online Learning**
 
