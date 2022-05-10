@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ikhda Muhammad Wildani</h1>
 <h3 align="center">Software Engineer from Indonesia, strong at Backend Side use NodeJS and Golang. I was working on some projects use various technologies such as ReactJS with JavaScript, Angular 8 with TypeScript, PHP Yii2, MongoDB and SQL.</h3>
 
-- 🌱 I’m currently learning **about Computer Science at Binus University Online Learning**
+- 🌱 I’m currently learning **Computer Science at Binus University Online Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@ikhdamuhammadwildani](https://medium.com/@ikhdamuhammadwildani)
 
 - 📫 How to reach me **ikhdamuhammad@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ikhda-muhammad-wildani-b98a03164/](https://www.linkedin.com/in/ikhda-muhammad-wildani-b98a03164/)
+
+- ⚡ Fun fact **DotA 2 casual player and Japanese Language Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
