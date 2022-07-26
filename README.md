@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Computer Science at Binus University Online Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@ikhdamuhammadwildani](https://medium.com/@ikhdamuhammadwildani)
+- 📝 I write articles on [https://medium.com/@ikhdamuhammadwildani](https://medium.com/@ikhdamuhammadwildani)
 
 - 📫 How to reach me **ikhdamuhammad@gmail.com**
 
