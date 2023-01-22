@@ -6,7 +6,7 @@
 
 - 📝 I write articles on [https://medium.com/@ikhdamuhammadwildani](https://medium.com/@ikhdamuhammadwildani)
 
-- 📫 How to reach me **ikhdamuhammad@gmail.com**
+- 📫 How to reach me **bashocode@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ikhda-muhammad-wildani-b98a03164/](https://www.linkedin.com/in/ikhda-muhammad-wildani-b98a03164/)
 
