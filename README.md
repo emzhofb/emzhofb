@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ikhda-muhammad-wildani-b98a03164/](https://www.linkedin.com/in/ikhda-muhammad-wildani-b98a03164/)
 
-- ⚡ Fun fact **DotA 2 casual player and Japanese Language Learner**
+- ⚡ Fun fact **Amateur Photographer and Japanese Language Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
