@@ -16,5 +16,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/ikhda-muhammad-wildani-b98a03164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikhda-muhammad-wildani-b98a03164/" height="30" width="40" /></a>
 <a href="https://medium.com/@ikhdamuhammadwildani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ikhdamuhammadwildani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucbvsg9rsk74ycnhkhfkj_tq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbvsg9rsk74ycnhkhfkj_tq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ikhdamuhammadwildani3764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbvsg9rsk74ycnhkhfkj_tq" height="30" width="40" /></a>
 </p>
