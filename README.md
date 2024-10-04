@@ -18,3 +18,12 @@
 <a href="https://medium.com/@ikhdamuhammadwildani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ikhdamuhammadwildani" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ikhdamuhammadwildani3764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbvsg9rsk74ycnhkhfkj_tq" height="30" width="40" /></a>
 </p>
+
+# 📊 Github Statistic:
+
+<p align="left">
+<a href="https://github.com/emzhofb">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emzhofb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emzhofb&layout=compact&theme=algolia"/>
+</a>
+</p>
