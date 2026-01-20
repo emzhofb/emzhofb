@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from Indonesia</h3>
 <h4 align="center">Focusing on Backend Side use NodeJS (ExpressJS) with database MongoDB/SQL and Golang (sometimes PHP, dotNET, and also Python lol). I was working on some frontend projects use various technologies such as ExpressJS, ReactJS, VueJS with JavaScript, Angular 8 with TypeScript, PHP Yii2, and Flutter for Mobile App Development.</h4>
 
-- 🌱 I’m currently learning Computer Science at [](Binus University Online Learning)
+- 🌱 I’m currently learning Computer Science at [https://online.binus.ac.id/](Binus University Online Learning)
 
 - 📝 I write articles on [https://medium.com/@ikhdamuhammadwildani](https://medium.com/@ikhdamuhammadwildani)
 
