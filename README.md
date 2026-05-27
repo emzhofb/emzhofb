@@ -30,4 +30,4 @@
 
 # 💻 LeetCode Statistic
 
-![](https://leetcard.jacoblin.cool/ikhda?animation=true)
+![](https://leetcard.jacoblin.cool/{{ikhda}}?animation=true)
