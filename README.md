@@ -27,7 +27,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emzhofb&layout=compact&theme=algolia"/>
 </a>
 </p>
-
-# 💻 LeetCode Statistic
-
-![](https://leetcard.jacoblin.cool/{{ikhda}}?animation=true)
